@@ -33,7 +33,7 @@ Merged into Checkmk and public on GitHub:
 - [Web3](https://github.com/AhmedHedi0/Web3): Spring Boot / PostgreSQL REST API with a React
   frontend that issues ERC-20 tokens; Cloud Run, GitHub Actions.
 - [PowerAnalysisAttack](https://github.com/AhmedHedi0/PowerAnalysisAttack): Python framework for
-  power side-channel analysis of AES-128 on an FPGA; recovered keys with DPA and CPA.
+  power side-channel analysis of AES-128 on an FPGA; recovered the full AES-128 key with CPA.
 - [ai-in-software-projects-csf](https://github.com/AhmedHedi0/ai-in-software-projects-csf):
   systematic literature review of how AI affects success factors in software projects, with the
   PRISMA search and screening scripts.
